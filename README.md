@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=1a1a1a&height=150&section=header&text=Serena%20Chen&fontSize=40&fontAlignY=45&fontColor=ffffff&desc=Frontend%20Developer%20|%20AI%20&%20CV%20Enthusiast&descAlignY=75&descColor=aaaaaa&animation=false" />
+  <h1>Hi there, I'm Serena Chen 👋</h1>
+
+  <!-- 低調的深灰色打字機特效 -->
+  <a href="https://github.com/你的GitHub帳號">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=4000&pause=2000&color=666666&center=true&vCenter=true&width=500&lines=Passionate+Developer+from+Taiwan+%F0%9F%87%B9%F0%9F%87%BA;Exploring+Computer+Vision+%26+AI;Building+cdlean+%26+efficient+solutions." alt="Typing SVG" />
+  </a>
 </div>
 
   <a href="https://github.com/han750114">
