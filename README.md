@@ -8,8 +8,8 @@
 
 ### ⚡ About Me
 
-- 🔭 目前正在進行 / 專注的領域：Robotics, LLM
-- 🌱 正在深入探索 **Computer Vision, AI, and Software Development**
+- 🔭 目前正在進行 / 專注的領域：Robotics, LLM, Software Development, Cybersecurity 
+- 🌱 正在深入探索 **VLA, Robot Manipulation, Sim2real**
 - 💡 喜歡挑戰有趣的技術問題與實作
 
 
