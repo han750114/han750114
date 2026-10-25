@@ -1,16 +1,13 @@
 <div align="center">
-  <h1>Hi there, I'm Serena Chen 👋</h1>
+  <h1>Hi, I'm Serena Chen </h1>
 
   <a href="https://github.com/han750114">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=4000&pause=2000&color=666666&center=true&vCenter=true&width=500&lines=Passionate+Developer+from+Taiwan+%F0%9F%87%B9%F0%9F%87%BA;Exploring+Computer+Vision+%26+AI;Building+cdlean+%26+efficient+solutions." alt="Typing SVG" />
   </a>
 </div>
 
 ### ⚡ About Me
 
-- 🔭 目前正在進行 / 專注的領域：Robotics, LLM, Software Development, Cybersecurity 
-- 🌱 正在深入探索 **VLA, Robot Manipulation, Sim2real**
-- 💡 喜歡挑戰有趣的技術問題與實作
+- 🔭：Robotics, LLM, Software Development, Cybersecurity 
 
 
 ### 🛠️ Tech Stack & Tools
