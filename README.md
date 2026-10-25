@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Serena Chen </h1>
+  <h1>Hi, I'm Serena </h1>
 
   <a href="https://github.com/han750114">
   </a>
@@ -7,7 +7,7 @@
 
 ### ⚡ About Me
 
-- 🔭：Robotics, LLM, Software Development, Cybersecurity 
+- Interest in🔭：Robotics, Software Development, Cybersecurity 
 
 
 ### 🛠️ Tech Stack & Tools
